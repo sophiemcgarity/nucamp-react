@@ -3,7 +3,6 @@ import { Breadcrumb, BreadcrumbItem, Card, CardBody, CardHeader, Media } from 'r
 import { Link } from 'react-router-dom';
 
 function RenderPartner({ partner }){
-    console.log(partner);
     if(partner) {
         return (
             <React.Fragment>
