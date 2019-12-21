@@ -150,7 +150,7 @@ function CampsiteInfo(props) {
             </div>
         );
     }
-    if (props.erMess) {
+    if (props.errMess) {
         return (
             <div className="container">
                 <div className="row">
