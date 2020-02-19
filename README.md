@@ -5,6 +5,16 @@ This project was built as part of the [NuCamp](https://www.nucamp.co/) coding bo
 
 ## Viewing the project
 As this project using a JSON server only the static content on the pages is available to view [here](https://sophiemcgarity.github.io/home).
+The images below show the content served via JSON server locally hosted.
+
+![Home](https://github.com/sophiemcgarity/nucamp-react/blob/master/projectImages/home.jpg)
+
+![Directory](https://github.com/sophiemcgarity/nucamp-react/blob/master/projectImages/directory.jpg)
+
+![Campground](https://github.com/sophiemcgarity/nucamp-react/blob/master/projectImages/campground.jpg)
+
+![Adding Comment](https://github.com/sophiemcgarity/nucamp-react/blob/master/projectImages/addComment.jpg)
+
 
 
 
