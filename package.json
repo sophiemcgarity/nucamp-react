@@ -1,11 +1,13 @@
 {
   "name": "nucampsite",
+  "homepage": "https://sophiemcgarity.github.io/nucamp-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "bootstrap": "4.0.0",
     "bootstrap-social": "5.1.1",
     "font-awesome": "4.7.0",
+    "gh-pages": "^2.2.0",
     "prop-types": "15.6.0",
     "react": "^16.12.0",
     "react-animation-components": "3.0.0",
@@ -24,6 +26,8 @@
     "typeface-open-sans": "^0.0.75"
   },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
