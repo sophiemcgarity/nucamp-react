@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nucamp-react/static/css/main.9f18a789.chunk.css",
-    "main.js": "/nucamp-react/static/js/main.a09bedec.chunk.js",
-    "main.js.map": "/nucamp-react/static/js/main.a09bedec.chunk.js.map",
+    "main.js": "/nucamp-react/static/js/main.f12319b0.chunk.js",
+    "main.js.map": "/nucamp-react/static/js/main.f12319b0.chunk.js.map",
     "runtime-main.js": "/nucamp-react/static/js/runtime-main.d860cb5b.js",
     "runtime-main.js.map": "/nucamp-react/static/js/runtime-main.d860cb5b.js.map",
     "static/css/2.65535943.chunk.css": "/nucamp-react/static/css/2.65535943.chunk.css",
-    "static/js/2.3cee9e96.chunk.js": "/nucamp-react/static/js/2.3cee9e96.chunk.js",
-    "static/js/2.3cee9e96.chunk.js.map": "/nucamp-react/static/js/2.3cee9e96.chunk.js.map",
+    "static/js/2.283b1631.chunk.js": "/nucamp-react/static/js/2.283b1631.chunk.js",
+    "static/js/2.283b1631.chunk.js.map": "/nucamp-react/static/js/2.283b1631.chunk.js.map",
     "index.html": "/nucamp-react/index.html",
-    "precache-manifest.77d2d6d32e444905f2619d6ff85300dc.js": "/nucamp-react/precache-manifest.77d2d6d32e444905f2619d6ff85300dc.js",
+    "precache-manifest.f6dbb6b99b05d67f4d58cf3aab683a31.js": "/nucamp-react/precache-manifest.f6dbb6b99b05d67f4d58cf3aab683a31.js",
     "service-worker.js": "/nucamp-react/service-worker.js",
     "static/css/2.65535943.chunk.css.map": "/nucamp-react/static/css/2.65535943.chunk.css.map",
     "static/css/main.9f18a789.chunk.css.map": "/nucamp-react/static/css/main.9f18a789.chunk.css.map",
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.d860cb5b.js",
     "static/css/2.65535943.chunk.css",
-    "static/js/2.3cee9e96.chunk.js",
+    "static/js/2.283b1631.chunk.js",
     "static/css/main.9f18a789.chunk.css",
-    "static/js/main.a09bedec.chunk.js"
+    "static/js/main.f12319b0.chunk.js"
   ]
 }
